@@ -90,7 +90,7 @@ const Body = () => {
         </form>
         <div className="flex gap-2 mt-4">
           <img src="./assets/Checkmark.svg" alt="check" className="py-2" />
-          <p className="font-lato text-gray-400">
+          <p className="font-lato text-gray-400 py-4 sm:py-4">
             No spam ever, Unsubscribe anytime
           </p>
         </div>

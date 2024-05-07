@@ -68,13 +68,13 @@ const Footer = () => {
       <ul className='flex gap-6 font-lato text-gray-400'>
 
         <li>
-          <a href="#">Facebook</a>
+          <a  href="#">Facebook</a>
         </li>
         <li>
-          <a href="#">Instagram</a>
+          <a href="https://www.instagram.com/aditya_sanwal1/">Instagram</a>
         </li>
         <li>
-          <a href="#">Twitter</a>
+          <a href="https://github.com/Aditya-edith">Github</a>
         </li>
       </ul>
         <div className='flex gap-2'>
